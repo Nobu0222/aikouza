@@ -7,7 +7,7 @@
   - 事前アンケート
 <br>
 <br>
-[はじめにへ](https://nobu0222.github.io/aikouza/)
+[はじめにへ](test.md)
 
 ## ニューラルネットワークについて
 
