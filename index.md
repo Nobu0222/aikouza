@@ -7,7 +7,7 @@
   - 事前アンケート
 <br>
 <br>
-[はじめに](http://www.google.co.jp/)へ
+[はじめに](https://nobu0222.github.io/aikouza/)へ
 
 ## ニューラルネットワークについて
 
@@ -17,7 +17,7 @@
 - XORを作る
 <br>
 <br>
-ニューラルネットワークについてへ
+[ニューラルネットワークについて](https://nobu0222.github.io/aikouza/)へ
 
 ## 学習について
 
@@ -26,14 +26,21 @@
 - 過学習(番外編)
 <br>
 <br>
-学習についてへ
+[学習について](https://nobu0222.github.io/aikouza/)へ
+
 
 ## 実際にやってみよう
 
 - 学習
 - 判定
+<br>
+<br>
+[実際にやってみよう](https://nobu0222.github.io/aikouza/)へ
 
 ## おわりに
 
 - 他のAIの紹介
 - 事後アンケート
+<br>
+<br>
+[おわりにへ](https://nobu0222.github.io/aikouza/)へ
