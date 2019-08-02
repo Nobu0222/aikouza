@@ -43,4 +43,4 @@
 - 事後アンケート
 <br>
 <br>
-[おわりにへ](https://nobu0222.github.io/aikouza/)へ
+[おわりに](https://nobu0222.github.io/aikouza/)へ
